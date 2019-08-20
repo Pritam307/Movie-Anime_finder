@@ -9,4 +9,10 @@ Run app.py from terminal.
 
 Go to http://your_flask_server/api/v0.1/anime  # for anime finder api
 
+You will get this:
+
+
+
+
+
 Go to http://your_flask_server/api/v0.1/movie  # for movie finder api
