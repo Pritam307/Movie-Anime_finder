@@ -7,6 +7,6 @@ Download the project in an directory.
 Then go to the directory and find app.py. 
 Run app.py from terminal.
 
-Go to http://flask server/api/v0.1/anime  # for anime finder api
+Go to http://your_flask_server/api/v0.1/anime  # for anime finder api
 
-Go to http://flask server/api/v0.1/movie  # for movie finder api
+Go to http://your_flask_server/api/v0.1/movie  # for movie finder api
